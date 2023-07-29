@@ -19,7 +19,7 @@ This is a modern Education website showcasing various programs and services offe
 
 ## Demo
 
-You can view a live demo of the Education website by visiting the following link: [Education Website Demo]([https://zvki1.github.io/education_website/])
+You can view a live demo of the Education website by visiting the following link:https://zvki1.github.io/education_website/
 
 ## How to Use
 
